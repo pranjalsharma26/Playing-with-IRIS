@@ -24,16 +24,25 @@ Before starting, do not forget to study the data which has 150 rows of 50 each t
 
 1. Machine Learning 
 
+
 1.a Here, the classification was done among comparing all the 4 features on two classifiers -
+
     - KNeighborsClassifier
+
     - DecisionTreeClassifier
+    
+
 1.b Calculation is done on these two models only and specifically all the comparisons between each of them are shown with defined accuracy in the notebook.  
+
 
 2. Deep Learning
 
+
 Simple DL model with 2 Dense layer is made along with Keras Classifier. Model turned out into 97% accuracy as well.
 
+
 3. Tensorflow
+
 
 The result was around 100% in training whereas somehow dropped to 95.6% in validation set, which can be further improved.
 
